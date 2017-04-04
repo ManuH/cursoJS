@@ -25,6 +25,4 @@ function showResult (contador) {
 
 }
 
-//numero = getNum();
-//primo = esPrimo(numero);
 showResult (esPrimo(getNum()));
